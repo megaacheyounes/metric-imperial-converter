@@ -1,2 +1,2 @@
-# metric-imperial-converter
-metric/imperial converter microservice fot the freecodecamp certificate.
+Secure microservice for converting metric/imp units.
+for FreeCodeCamp certificate.
